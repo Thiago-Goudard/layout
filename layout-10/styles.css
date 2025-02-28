@@ -1,0 +1,56 @@
+.azul{
+    background-color: blue;
+    padding: 200px;
+    
+}
+
+.amarelo{
+    background-color: yellow;
+    margin: 10px;
+    padding: 100px ;
+    
+    
+}
+.flex{
+    display: flex;
+}
+.cumprido{
+    background-color: yellow;
+    margin: 10px;
+    padding: 100px 50px;
+    padding-top: 300px;
+    padding-left: 150px;
+}
+.ex{
+    background-color: yellow;
+    padding-right: 350;
+}
+.buton{
+    background-color: yellow;
+    bottom: 350px;
+}
+.maior{
+    background-color: yellow;
+    height: 350px;
+}
+.esticado{
+    background-color: yellow;
+    margin: 10px;
+    padding: 100px;
+    padding-left: 320px;
+}
+.amarelop{
+    background-color: yellow;
+    margin: 10px;
+    padding: 100px;
+    padding-top: 20px;
+    padding-left: 10px;
+
+}
+
+.pazul{
+    background-color: blue;
+    margin: 10px;
+    padding: 100px ;
+
+}
